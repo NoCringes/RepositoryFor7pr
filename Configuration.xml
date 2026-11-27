@@ -15640,6 +15640,7 @@
 			<DataProcessor>ЭлектронноеВзаимодействие</DataProcessor>
 			<DataProcessor>ЭлектронныеДокументыОтправкаКаталога</DataProcessor>
 			<DataProcessor>ЭлектронныеПеревозочныеДокументы</DataProcessor>
+			<DataProcessor>_ЗагрузкаПрайсов</DataProcessor>
 			<InformationRegister>АбонентыЭДО</InformationRegister>
 			<InformationRegister>АвтоНумерацияДоговоровКонтрагента</InformationRegister>
 			<InformationRegister>АвторизацияВСервисеФреш</InformationRegister>
