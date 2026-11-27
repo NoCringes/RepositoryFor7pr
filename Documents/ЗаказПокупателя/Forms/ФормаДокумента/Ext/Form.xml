@@ -1056,6 +1056,11 @@
 																</InputField>
 															</ChildItems>
 														</UsualGroup>
+														<CheckBoxField name="_СрочныйЗаказ" id="7437">
+															<DataPath>Объект._СрочныйЗаказ</DataPath>
+															<ContextMenu name="_СрочныйЗаказКонтекстноеМеню" id="7438"/>
+															<ExtendedTooltip name="_СрочныйЗаказРасширеннаяПодсказка" id="7439"/>
+														</CheckBoxField>
 														<InputField name="ВидОперации" id="1629" DisplayImportance="VeryHigh">
 															<DataPath>Объект.ВидОперации</DataPath>
 															<SkipOnInput>true</SkipOnInput>
